@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "author": "woasishen",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.duapp.com/appidfj36c6aq3p"
+  },
+  "license": "ISC"
+}
